@@ -60,3 +60,5 @@ xmake should handle parameter name conflicts in one of two ways:
 ```bash
 ./run.sh
 ```
+
+See [action logs](https://github.com/YouXam/xmake-issue-reproduction/actions/runs/16264085953/job/45915740166).
